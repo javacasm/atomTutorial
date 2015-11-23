@@ -16,9 +16,19 @@ Atom es un editor modular, formado por un núcleo, basado en nodejs y tecnologí
 # Keybinding
 
 * Ctrl+Alt+m  Markdown pre-visualización
+* Ctrl+ + y Ctrl + - Aumenta y disminuye el tamaño el font
+### Git
+
+* Ctrl-Alt-a Add file
+* Ctrl-Alt-x Commit
+
+#### Otros
+
+* Ctr-Shift-P ¿?
 
 #Paquetes a instalar
 
+* Git-plus
 
 #Pruebas
 
