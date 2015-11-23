@@ -40,10 +40,12 @@ En Settings, opción Keybinding Add personal keybinding
 * ¿Arduino?
 * ¿generar epub?
 * Configurar github (usuario, etc..)
+* ¿Tutorial del Markdown que admite?
 
 # Pruebas
 
-# This is makdown
+
+# This is Markdown
 ## 2º order
 
 1. un punto
