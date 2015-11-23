@@ -22,15 +22,26 @@ Atom es un editor modular, formado por un núcleo, basado en nodejs y tecnologí
 * Ctrl-Alt-a Add file
 * Ctrl-Alt-x Commit
 
-#### Otros
+### Otros
 
 * Ctr-Shift-P ¿?
 
-#Paquetes a instalar
+### Añadir Keybinding
+
+En Settings, opción Keybinding Add personal keybinding
+
+# Paquetes a instalar
 
 * Git-plus
 
-#Pruebas
+# Dudas
+
+* ¿Keybinding?
+* ¿Arduino?
+* ¿generar epub?
+
+
+# Pruebas
 
 # This is makdown
 ## 2º order
