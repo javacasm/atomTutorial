@@ -42,6 +42,13 @@ En Settings, opción Keybinding Add personal keybinding
 * Configurar github (usuario, etc..)
 * ¿Tutorial del Markdown que admite?
 
+# Mirar
+
+* [Generar pdf con temas](https://atom.io/packages/markdown-themeable-pdf)
+* [Generar epub](https://github.com/JJ/curso-js/blob/master/utils/md2epub)
+* [Atom Getting started](https://atom.io/docs/v1.2.3/getting-started-atom-basics)
+* [Control de versiones en Atom](https://atom.io/docs/v1.2.3/using-atom-version-control-in-atom)
+
 # Pruebas
 
 
