@@ -39,7 +39,7 @@ En Settings, opción Keybinding Add personal keybinding
 * ¿Keybinding?
 * ¿Arduino?
 * ¿generar epub?
-
+* Configurar github (usuario, etc..)
 
 # Pruebas
 
